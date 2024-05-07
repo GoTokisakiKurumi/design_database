@@ -1,0 +1,10 @@
+[
+    {
+        "id_user": "KHI827",            // type(string) must unix()
+        "fullName" : "Tokisaki Kurumi", // type(string) min length(10) character max length(20)
+        "imageProfile" : "",            // type(string) url
+        "email": "biolutfi@gmail.com",  // type(string) 
+        "password": "kurumi12345678#",  // type(string) min length(6) character merge(string && number && symbol)
+        "noHandpone": 085803377531,     // type(number) min length(12) max length(13)
+    }
+]
