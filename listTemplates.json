@@ -1,0 +1,9 @@
+[
+    {
+        "id_template": "TM1366", // type(string) unix()
+        "thumbnail": "",         // type(string) url image
+        "title": "",             // type(string) 
+        "like": 150,             // type(number) 
+        "price": 50.0000,        // type(number) 
+    }
+]
