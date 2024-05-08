@@ -1,0 +1,157 @@
+[
+    {
+        "id_user" : "saskdladkaso",
+        "email" : "biolutfi@gmail.com",
+        "password" : "hudshfsnscnsvhvs",
+        "letter" : {
+            "id" : "yyiuehviehh",
+            "slug" : "lutfi.kurumi",
+        },
+        "data_template" : {
+            "template_id" : "jhsuvhsddivhsh"
+            "wedding_date" : "20 april 2030",
+            "music": [
+                "https://example.com/music/1.mp3",
+                "https://example.com/music/2.mp3",
+                "https://example.com/music/3.mp3",
+                "https://example.com/music/4.mp3",
+            ],
+            "image_main": [
+                "https://example.com/images/1.jpg",
+                "https://example.com/images/2.jpg",
+                "https://example.com/images/3.jpg",
+            ],
+            "scripture" : {
+                "show" : true,
+                "verse_name" : "al-baqarah",
+                "paragraph" : "",
+                "translation": ""
+            },
+            "opening_letter": {
+                "show": true,
+                "text": "Tanpa mengurangi rasa hormat, kami bermaksud mengundang Bapak/Ibu/Saudara/I untuk menghadiri acara Pernikahan kami"
+            }
+            "couple" : {
+                "male" : {
+                    "full_name" : "Lutfi Aulia Sidik",
+                    "nick_name" : "lutfi",
+                    "nth_child" : 1,
+                    "photo" : [
+                        "https://example.com/image/lutfi-1.jpg",
+                        "https://example.com/image/lutfi-2.jpg"
+                    ],
+                    "birth" : "20 april 2005",
+                    "sosial_media": {
+                        "instagram": "https://instagram.com/example"
+                    },
+                    "address" : "Kab.Tasikmalaya, kecamatan sukarame",
+                    "parents" : {
+                        "male" : {
+                            "name" : "anonymous",
+                            "life" : true
+                        },
+                        "female" : {
+                            "name" : "anonymous",
+                            "life" : true
+                        }
+                    }
+                },
+                "female" : {
+                    "full_name" : "Tokisaki Kurumi",
+                    "nick_name" : "kurumi",
+                    "nth_child" : 1,
+                    "photo" : [
+                        "https://example.com/image/kurumi-1.jpg",
+                        "https://example.com/image/kurumi-2.jpg"
+                    ],
+                    "birth" : "20 oktober 2005",
+                    "sosial_media": {
+                        "instagram": "https://instagram.com/example"
+                    },
+                    "address" : "isekai",
+                    "parents" : {
+                        "male" : {
+                            "name" : "anonymous",
+                            "life" : true
+                        },
+                        "female" : {
+                            "name" : "anonymous",
+                            "life" : true
+                        }
+                    }
+                },
+
+            },
+            "events" : {
+                "marry_contract": {
+                    "day" : "sabtu",
+                    "date": "20 April 2030",
+                    "times" : "10.00 - 11.00 WIB",
+                    "address": "Jalan Rama 2 No 18 RT 005 RW 04 Perumahan Taman Mini Indonesia Indah (TMII) Kelurahan Bambu Apus Kecamatan Cipayung Jakarta Timur",
+                    "map": "https://map.com"
+                },
+                "wedding_reception": {
+                    "day" : "sabtu",
+                    "date": "20 April 2030",
+                    "times" : "11.00 - 19.00 WIB",
+                    "address": "Jalan Rama 2 No 18 RT 005 RW 04 Perumahan Taman Mini Indonesia Indah (TMII) Kelurahan Bambu Apus Kecamatan Cipayung Jakarta Timur",
+                    "map": "https://map.com"
+                }
+            },
+            "moment_gallery": {
+                "videos": "https://youtube.com/kurumi%20kawaii&&lutfi",
+                "photos": [
+                    "https://example.com/images/1.jpg",
+                    "https://example.com/images/2.jpg",
+                    "https://example.com/images/3.jpg",
+                    "https://example.com/images/4.jpg",
+                    "https://example.com/images/5.jpg"
+                ]
+            },
+            "love_story" : [
+                {
+                    "title": "first date",
+                    "date": "10 januari 2019",
+                    "image": "https://example.com/images/date-1.jpg",
+                    "description": ">//<"
+                },
+                {
+                    "title": "dating",
+                    "date": "25 maret 2022",
+                    "image": "https://example.com/images/date-2.jpg",
+                    "description": ">//<"
+                },          
+                {
+                    "title": "married",
+                    "date": "20 april 2030",
+                    "image": "https://example.com/images/date-3.jpg",
+                    "description": ">//<"
+                }            
+
+            ],
+            "gift" : {
+                "show" : true,
+                "rekening_number" : [
+                    {
+                        "name_bank" : "Bank BRI",
+                        "number_rekening" : "897532739054874"
+                    }
+                ]
+            },
+            "comments" : [
+                {
+                    "name" : "meysa mio",
+                    "presence": true,
+                    "comment" : "gua masih alone, lu dah nikah aja :)",
+                    "date_time": "sabtu, 2 hari yang lalu"
+                },
+                {
+                    "name" : "nakano miku",
+                    "presence": false,
+                    "comment" : ":)",
+                    "date_time": "sabtu, 2 hari yang lalu"
+                }
+            ]
+        }
+    }
+]

@@ -1,8 +1,0 @@
-[
-    {
-        "id_user" : "KHI827",           // type(string)
-        "username" : "Tokisaki Kurumi", // type(string)
-        "email": "biolutfi@gmail.com",  // type(string)
-        "password" : "kurumi12345678#"  // type(string)
-    }
-]
